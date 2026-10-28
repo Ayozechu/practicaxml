@@ -1,0 +1,29 @@
+<rss version="2.0">
+<channel>
+    <title>TecnoAyoze</title> <!-- Titulo del rss, el que verá el usuario cuando lo agregue a un programa -->
+    <link>https://www.Ayozeweb.com</link> <!--link que usará el programa para acceder a tu web si el usuario lo require-->
+    <description>Descripción del canal</description> <!--breve descripción del canal rss-->
+        <item>
+            <title>Tarea de LND 1º Semipresencial</title> <!--Titulo de la primera noticia/entrada que aparecerá-->
+            <link>https://www.Ayozeweb.com/noticia1</link> <!--ubicación de la información-->
+            <description>Primicia esta noticia indica que sabemos crear un xml para crear un rss de noticias</description>
+            <!--breve descripccion de la noticia, adelanto de la misma-->
+            <pubDate>Fri, 16 Oct 2026 16:58:00 +0000 </pubDate> <!--fecha y hora de la publicación-->
+            <guid>https://www.Ayozeweb.com/noticia1</guid> <!--identificador unico de la noticia, para evitar duplicidades-->
+        </item>
+    <item>
+        <title>Segunda noticia de Tarea de LND 1º Semipresencial</title>
+        <link>https://www.Ayozeweb.com/noticia2</link>
+        <description>Esta es la segunda noticia de la tarea de RSS para ver si creamos correctamente</description>
+        <pubDate>Fri, 16 Oct 2026 16:00:00 +0000 </pubDate>
+        <guid>https://www.Ayozeweb.com/noticia2</guid>
+    </item>
+    <item>
+        <title>Tercera noticia noticia de Tarea de LND 1º Semipresencial</title>
+        <link>https://www.Ayozeweb.com/noticia3</link>
+        <description>Esta es la Tercera noticia noticia de la tarea de RSS para ver si creamos correctamente</description>
+        <pubDate>Fri, 16 Oct 2026 18:20:00 +0000 </pubDate>
+        <guid>https://www.Ayozeweb.com/noticia3</guid>
+    </item>
+</channel>
+</rss>
